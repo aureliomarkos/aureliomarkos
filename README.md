@@ -13,7 +13,8 @@
     Estudando:
   <div></br>
 
-- Flet 
-- Qt
-- SqlAlchemy
+- <img align="center" alt="flet" src="img/iconFlet.png">
+- <img align="center" alt="qt" src="img/iconQt.png">
+- <img align="center" alt="sqlAlchemy" src="img/iconSqlAlchemy.png">
+
  

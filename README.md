@@ -1,24 +1,58 @@
-### Olá, eu sou Marcos Aurélio Oripka ✋
+# 👋 Olá, eu sou Marcos Aurélio Oripka
 
+Sou apaixonado por tecnologia. Gosto de transformar ideias em soluções práticas e eficientes.
 
-![Markos's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliomarkos&show_icons=true&theme=dracula)
+- 🌱 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades
+- 💡 Interesse especial em **Oracle Cloud**, **automação com n8n** e **bancos de dados**
+- 📫 Entre em contato: [aureliomarkos@yahoo.com] | [LinkedIn](https://www.linkedin.com/in/marcos-aurelio-oripka/)
 
+---
 
-## Tecnologias que uso no meu dia
-<div style="display: inline-block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySql-07405E?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="Css" src="https://img.shields.io/badge/Css-orange?style=for-the-badge&logo=CSS&fontColor=black">
-    <img align="center" alt="Html" src="https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=HTML&fontColor=black">
-    <img align="center" alt="javaScript" src="https://img.shields.io/badge/javaScript-orange?style=for-the-badge&logo=javaScript&fontColor=black">
+## 🛠️ Tecnologias & Ferramentas
 
-  <div></br>
-    Estudando:
-  <div></br>
+### Cloud & Infraestrutura
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-- <img align="center" alt="flet" src="img/iconFlet.png">
-- <img align="center" alt="qt" src="img/iconQt.png">
-- <img align="center" alt="sqlAlchemy" src="img/iconSqlAlchemy.png">
+### Linguagens & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
- 
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Automação & Low-Code
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Marcos Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliomarkos&show_icons=true&theme=dracula&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliomarkos&layout=compact&theme=dracula)
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Nexus - Gestão Centralizada de Infraestrutura] (https://nexus.markosdev.com.br/admin/)
+  - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
+| [Meu Caixa - Sistema de Controle de Recebíveis] (https://caixa.markosdev.com.br/templates/)
+  - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
+| [Security Key - Cofre Digital Familiar] (https://security.markosdev.com.br/)
+  - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
+
+---
+
+## 🎯 O que estou estudando agora
+
+- Arquitetura de microsserviços na **Oracle Cloud**
+- Integrações avançadas com **n8n**
+- Otimização de queries em **PostgreSQL**
+- Frameworks modernos de **JavaScript**
+
+&gt; *"A tecnologia é melhor quando conecta pessoas."*

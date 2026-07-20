@@ -28,12 +28,12 @@ Sou apaixonado por tecnologia. Gosto de transformar ideias em soluções prátic
 
 ## 📌 Projetos em Destaque
 
-[Nexus - Gestão Centralizada de Infraestrutura] (https://nexus.markosdev.com.br/admin/)
-  - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
-[Meu Caixa - Sistema de Controle de Recebíveis] (https://caixa.markosdev.com.br/templates/)
-  - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
-[Security Key - Cofre Digital Familiar] (https://security.markosdev.com.br/)
-  - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
+- Nexus - Gestão Centralizada de Infraestrutura (https://nexus.markosdev.com.br/admin/)
+  DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
+- Meu Caixa - Sistema de Controle de Recebíveis (https://caixa.markosdev.com.br/templates/)
+  DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
+- Security Key - Cofre Digital Familiar (https://security.markosdev.com.br/)
+  DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
 
 ---
 

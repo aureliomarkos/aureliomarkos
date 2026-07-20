@@ -25,25 +25,14 @@ Sou apaixonado por tecnologia. Gosto de transformar ideias em soluções prátic
 ### Automação & Low-Code
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Marcos Aurélio's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureliomarkos&show_icons=true&theme=dracula&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureliomarkos&layout=compact&theme=dracula)
-
----
 
 ## 📌 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Nexus - Gestão Centralizada de Infraestrutura] (https://nexus.markosdev.com.br/admin/)
+[Nexus - Gestão Centralizada de Infraestrutura] (https://nexus.markosdev.com.br/admin/)
   - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
-| [Meu Caixa - Sistema de Controle de Recebíveis] (https://caixa.markosdev.com.br/templates/)
+[Meu Caixa - Sistema de Controle de Recebíveis] (https://caixa.markosdev.com.br/templates/)
   - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
-| [Security Key - Cofre Digital Familiar] (https://security.markosdev.com.br/)
+[Security Key - Cofre Digital Familiar] (https://security.markosdev.com.br/)
   - DOCKER HTML/CSS/JAVASCRIPT PYTHON POSTGRESQL
 
 ---
